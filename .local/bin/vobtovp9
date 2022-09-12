@@ -1,0 +1,4 @@
+#!/bin/bash
+# ffmpeg -i $1 -f mp3 $2
+for i in *.VOB; do ffmpeg -i "$i" -c:v libvpx-vp9 -b:v 500K -pass 1 -an -f null /dev/null &&
+    ffmpeg -i "$i" -c:v libvpx-vp9 -b:v 2M -pass 2 -c:a libopus "${i%}.webm"; done
