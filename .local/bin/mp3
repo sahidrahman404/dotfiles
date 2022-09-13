@@ -1,3 +1,0 @@
-#!/bin/bash
-# ffmpeg -i $1 -f mp3 $2
-for i in *.opus; do ffmpeg -i "$i" -f mp3 "${i%}.mp3"; done

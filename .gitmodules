@@ -1,21 +1,21 @@
-[submodule ".config/lf"]
-	path = .config/lf
-	url = git@gitlab.com:sahidrahman132/lf.git
-[submodule ".config/mpv"]
-	path = .config/mpv
-	url = git@github.com:sahidrahman404/mpv-config.git
-[submodule ".config/shell"]
-	path = .config/shell
-	url = git@gitlab.com:sahidrahman132/shell.git
-[submodule ".config/x11"]
-	path = .config/x11
-	url = git@gitlab.com:sahidrahman132/x11.git
-[submodule ".config/zsh"]
-	path = .config/zsh
-	url = git@github.com:sahidrahman404/zsh.git
-[submodule ".local/bin"]
-	path = .local/bin
-	url = git@github.com:sahidrahman404/scripts.git
 [submodule ".doom.d"]
 	path = .doom.d
 	url = git@github.com:sahidrahman404/doom-emacs-config.git
+[submodule "lf"]
+	path = .config/lf
+	url = git@gitlab.com:sahidrahman132/lf.git
+[submodule "mpv"]
+	path = .config/mpv
+	url = git@github.com:sahidrahman404/mpv-config.git
+[submodule "shell"]
+	path = .config/shell
+	url = git@gitlab.com:sahidrahman132/shell.git
+[submodule "x11"]
+	path = .config/x11
+	url = git@gitlab.com:sahidrahman132/x11.git
+[submodule "zsh"]
+	path = .config/zsh
+	url = git@github.com:sahidrahman404/zsh.git
+[submodule "bin"]
+	path = .local/bin
+	url = git@github.com:sahidrahman404/scripts.git
