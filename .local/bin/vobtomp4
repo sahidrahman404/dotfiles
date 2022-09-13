@@ -1,4 +1,0 @@
-#!/bin/bash
-
-# ffmpeg -i $1 -f mp3 $2
-for i in *.VOB; do ffmpeg -i "$i" "${i%}.mp4"; done
