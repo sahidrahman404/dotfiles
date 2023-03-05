@@ -2,7 +2,7 @@
 # Any customization should be done in ~/.gtkrc-2.0.mine instead.
 
 include "/home/rahman/.gtkrc-2.0.mine"
-gtk-theme-name="Arc-Gruvbox"
+gtk-theme-name="Raleigh"
 gtk-icon-theme-name="Adwaita"
 gtk-font-name="FiraCode Nerd Font Mono Light 12"
 gtk-cursor-theme-name="Adwaita"
