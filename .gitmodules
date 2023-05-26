@@ -19,6 +19,6 @@
 [submodule "bin"]
 	path = .local/bin
 	url = git@github.com:sahidrahman404/scripts.git
-[submodule "nvim"]
+[submodule ".config/nvim"]
 	path = .config/nvim
 	url = git@github.com:sahidrahman404/nvim-config.git
