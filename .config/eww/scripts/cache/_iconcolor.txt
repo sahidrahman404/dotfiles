@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/rahman/Pictures/wallpaper/florian-wehde-iVW7mZPwd4g-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#09090D",
+        "foreground": "#e5e5ea",
+        "cursor": "#e5e5ea"
+    },
+    "colors": {
+        "color0": "#09090D",
+        "color1": "#CFA45A",
+        "color2": "#2659A0",
+        "color3": "#5B6E96",
+        "color4": "#BC67A0",
+        "color5": "#4F9ED0",
+        "color6": "#B5B6B4",
+        "color7": "#e5e5ea",
+        "color8": "#a0a0a3",
+        "color9": "#CFA45A",
+        "color10": "#2659A0",
+        "color11": "#5B6E96",
+        "color12": "#BC67A0",
+        "color13": "#4F9ED0",
+        "color14": "#B5B6B4",
+        "color15": "#e5e5ea"
+    }
+}

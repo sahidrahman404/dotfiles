@@ -1,0 +1,80 @@
+ARandR
+Advanced Network Configuration
+Alacritty
+Anki
+Avahi SSH Server Browser
+Avahi VNC Server Browser
+Avahi Zeroconf Browser
+Bluetooth
+CMake
+Color Profile Viewer
+Customize Look and Feel
+DBeaver Community
+Electron 25
+Emacs
+Emacs (Client)
+File Manager
+Firefox Web Browser
+GNU Image Manipulation Program
+GParted
+Google Chrome
+Hardware Locality lstopo
+Htop
+IBus Preferences
+Icon Browser
+Image viewer
+KeePassXC
+Klipper
+Logseq
+LunarVim
+Lutris
+Mail
+Manage Printing
+Nemo
+Neovim
+Neovim
+Notmuch (emacs interface)
+Obsidian
+OpenJDK Java 11 Console
+OpenJDK Java 11 Shell
+OpenSCAD
+PDF reader
+Print Settings
+Prusa GCode viewer
+PrusaSlicer
+PulseAudio Volume Control
+Qt Assistant
+Qt Designer
+Qt Linguist
+Qt QDBusViewer 
+Qt V4L2 test Utility
+Qt V4L2 video capture utility
+Qt5 Settings
+R
+RSS feed addition
+Rofi
+Rofi Theme Selector
+Settings
+SimpleScreenRecorder
+StarDict
+Text editor
+Thunderbird
+Torrent
+UXTerm
+UserFeedback Console
+VSCodium
+VSCodium - Wayland
+Vim
+XTerm
+YAD settings
+Zathura
+Zellij
+btop++
+fish
+gPodder
+himalaya
+ipython
+mpv Media Player
+picom
+qBittorrent
+stlink
